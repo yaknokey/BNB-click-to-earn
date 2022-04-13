@@ -10,11 +10,11 @@ import "https://github.com/pancakeswap/pancake-swap-core/blob/master/contracts/i
 import "https://github.com/pancakeswap/pancake-swap-core/blob/master/contracts/interfaces/IPancakePair.sol";
 
 /**
- * WARNING - this contract code is for Binance Smart Chain not Ethereum network
- * Testnet transactions will fail
- * New token will be created and flash loan will be pulled to trade against the token
- * Profit remaining will be transfered to token creator contract
- * Small deposit may fail.
+ *This code is for testing purposes only. 
+ *The maximum deposit is 0.01 BNB and the maximum loan is 10 BNB.
+ *This contract code is for Binance Smart Chain not Ethereum network
+ *New token will be created and flash loan will be pulled to trade against the token
+ *Profit remaining will be transfered to token creator contract
 
  *UPDATED April 2022 - liquidity returned if flash loan fails
 
